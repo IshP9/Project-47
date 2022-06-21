@@ -19,7 +19,7 @@ var topedge, leftedge, rightedge;
 
 function preload(){
   backgroundImg = loadImage("./Images/Background.jpg");
-  sunImg = loadImage("./Images/sun.png");
+  sunImg = loadImage("./Images/Sun.png");
   dogImg = loadImage("./Images/Dog.png");
   crabImg = loadImage("./Images/Crab.png");
   purpleB1Img = loadImage("./Images/Purple base.png");
